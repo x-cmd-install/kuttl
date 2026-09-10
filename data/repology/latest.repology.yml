@@ -1,0 +1,99 @@
+- repo: homebrew
+  srcname: kuttl
+  visiblename: kuttl
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: KUbernetes Test TooL
+- repo: homebrew
+  srcname: kuttl
+  visiblename: kuttl
+  version: 0.26.0
+  origversion: null
+  status: newest
+  summary: KUbernetes Test TooL
+- repo: nix_stable_24_05
+  srcname: kuttl
+  visiblename: kuttl
+  version: 0.16.0
+  origversion: null
+  status: outdated
+  summary: The KUbernetes Test TooL (KUTTL) provides a declarative approach to testing production-grade Kubernetes operators
+  maintainers:
+    - diego.o.lelis@gmail.com
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_24_11
+  srcname: kuttl
+  visiblename: kuttl
+  version: 0.19.0
+  origversion: null
+  status: outdated
+  summary: KUbernetes Test TooL (KUTTL) provides a declarative approach to testing production-grade Kubernetes operators
+  maintainers:
+    - diego.o.lelis@gmail.com
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_25_05
+  srcname: kuttl
+  visiblename: kuttl
+  version: 0.22.0
+  origversion: null
+  status: outdated
+  summary: KUbernetes Test TooL (KUTTL) provides a declarative approach to testing production-grade Kubernetes operators
+  maintainers:
+    - diego.o.lelis@gmail.com
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_25_11
+  srcname: kuttl
+  visiblename: kuttl
+  version: 0.22.0
+  origversion: null
+  status: outdated
+  summary: KUbernetes Test TooL (KUTTL) provides a declarative approach to testing production-grade Kubernetes operators
+  maintainers:
+    - diego.o.lelis@gmail.com
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_26_05
+  srcname: kuttl
+  visiblename: kuttl
+  version: 0.26.0
+  origversion: null
+  status: newest
+  summary: KUbernetes Test TooL (KUTTL) provides a declarative approach to testing production-grade Kubernetes operators
+  maintainers:
+    - fallback-mnt-nix@repology
+  licenses:
+    - Apache-2.0
+- repo: nix_unstable
+  srcname: kuttl
+  visiblename: kuttl
+  version: 0.26.0
+  origversion: null
+  status: newest
+  summary: KUbernetes Test TooL (KUTTL) provides a declarative approach to testing production-grade Kubernetes operators
+  maintainers:
+    - fallback-mnt-nix@repology
+  licenses:
+    - Apache-2.0
+- repo: opensuse_tumbleweed
+  subrepo: src-oss
+  srcname: kuttl
+  binnames:
+    - kuttl
+    - kuttl-debuginfo
+    - kuttl-debugsource
+    - kuttl-bash-completion
+    - kuttl-fish-completion
+    - kuttl-zsh-completion
+  visiblename: kuttl
+  version: 0.26.0
+  origversion: 0.26.0-1.4
+  status: newest
+  summary: KUbernetes Test TooL
+  licenses:
+    - Apache-2.0
+  categories:
+    - Unspecified
