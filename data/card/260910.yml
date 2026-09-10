@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.26.0"
   latestRelease: "v0.26.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T20:11:10Z
+  collectedAt: 2026-09-10T23:31:32Z
 timeline:
   created: 2019-11-23
   lastCommit: 2026-09-07
@@ -86,7 +86,7 @@ total:
   commit: 407
 ---
 path: /home/runner/.x-repo/github.com/kudobuilder/kuttl
-collectedAt: 2026-09-10T20:11:11Z
+collectedAt: 2026-09-10T23:31:34Z
 loc:
   Go:
     code: 9317
