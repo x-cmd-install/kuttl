@@ -12,6 +12,28 @@ KUbernetes Test TooL (kuttl)
 x install kuttl
 ```
 
+## Code insight
+
+Total: **12,298** lines of code across **238** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Go | 9,317 | 918 | 1,444 | 86 |
+| Yaml | 2,622 | 17 | 4 | 139 |
+| Sh | 201 | 46 | 54 | 8 |
+| Makefile | 125 | 35 | 38 | 3 |
+| Dockerfile | 33 | 21 | 14 | 2 |
+
+## OpenSSF Scorecard
+
+Overall score: **4.9 / 10**
+
+Lowest-scoring checks:
+
+- **Packaging** (-1/10) — packaging workflow not detected
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
+
 ## Source
 
 - **Upstream**: <https://github.com/kudobuilder/kuttl>
@@ -22,6 +44,25 @@ x install kuttl
 - **Latest**: `v0.26.0` (2026-05-11)
 - **Last commit**: 2026-09-07
 - **Assets in release**: 17
+
+## Popularity
+
+- **Stars**: 825 · **Forks**: 103 · **Open issues**: 266 · **Contributors**: 59
+
+## Totals (cumulative)
+
+- **Releases**: 36 · **Merged PRs**: 376 · **Open PRs**: 11 · **Closed issues**: 132 · **Open issues**: 134 · **Commits**: 407
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 0 | 7 | 2 | 0 | 0 | 7 |
+| last60d | 2026-07-12 | 0 | 14 | 2 | 0 | 1 | 13 |
+| 90d | 2026-06-12 | 0 | 22 | 2 | 0 | 1 | 22 |
+| last180d | 2026-03-14 | 1 | 34 | 2 | 0 | 1 | 34 |
+| 360d | 2025-09-15 | 4 | 71 | 2 | 5 | 2 | 91 |
+| last720d | 2024-09-20 | 7 | 111 | 3 | 10 | 6 | 130 |
 
 ## Release assets
 
@@ -45,43 +86,15 @@ x install kuttl
 | [kuttl_0.26.0_linux_s390x.tar.gz](https://github.com/kudobuilder/kuttl/releases/download/v0.26.0/kuttl_0.26.0_linux_s390x.tar.gz) | 14.3 MiB | `native/unknown` |
 | [kuttl_0.26.0_linux_x86_64.tar.gz](https://github.com/kudobuilder/kuttl/releases/download/v0.26.0/kuttl_0.26.0_linux_x86_64.tar.gz) | 14.9 MiB | `native/linux/x64` |
 
-## Popularity
+## Distribution status
 
-- **Stars**: 825 · **Forks**: 103 · **Open issues**: 266 · **Contributors**: 59
+Reported by **9** distros on [repology.org](https://repology.org/project/kuttl). **4** are ✅ on the latest upstream release, **4** are ⚠️ on an older version.
 
-## Totals (cumulative)
-
-- **Releases**: 36 · **Merged PRs**: 376 · **Open PRs**: 11 · **Closed issues**: 132 · **Open issues**: 134 · **Commits**: 407
-
-## Recent activity
-
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 7 | 2 | 0 | 0 | 7 |
-| 90d | 2026-06-12 | 0 | 22 | 2 | 0 | 1 | 22 |
-| 360d | 2025-09-15 | 4 | 71 | 2 | 5 | 2 | 91 |
-
-## Code size
-
-Total: **12,298** lines of code across **238** files in the top 5 languages.
-
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| Go | 9,317 | 918 | 1,444 | 86 |
-| Yaml | 2,622 | 17 | 4 | 139 |
-| Sh | 201 | 46 | 54 | 8 |
-| Makefile | 125 | 35 | 38 | 3 |
-| Dockerfile | 33 | 21 | 14 | 2 |
-
-## OpenSSF Scorecard
-
-Overall score: **4.9 / 10**
-
-Lowest-scoring checks:
-
-- **Packaging** (-1/10) — packaging workflow not detected
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
-- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
+| Distro | Version | Status |
+|--------|---------|--------|
+| Homebrew | `HEAD` | 🔄 rolling |
+| Nix unstable | `0.26.0` | ✅ latest |
+| openSUSE Tumbleweed | `0.26.0` | ✅ latest |
 
 ## Improve this data
 
@@ -92,4 +105,4 @@ Install metadata for kuttl lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T15:57:59Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T20:11:17Z._
