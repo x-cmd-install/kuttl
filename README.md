@@ -22,7 +22,28 @@ x install kuttl
 - **Latest**: `v0.26.0` (2026-05-11)
 - **Last commit**: 2026-09-07
 - **Assets in release**: 17
-- **Published**: 2026-05-11T06:01:12Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [checksums.txt](https://github.com/kudobuilder/kuttl/releases/download/v0.26.0/checksums.txt) | 1.5 KiB | `other` |
+| [kubectl-kuttl_0.26.0_darwin_arm64](https://github.com/kudobuilder/kuttl/releases/download/v0.26.0/kubectl-kuttl_0.26.0_darwin_arm64) | 43.9 MiB | `native/darwin/arm64` |
+| [kubectl-kuttl_0.26.0_darwin_x86_64](https://github.com/kudobuilder/kuttl/releases/download/v0.26.0/kubectl-kuttl_0.26.0_darwin_x86_64) | 46.5 MiB | `native/darwin/x64` |
+| [kubectl-kuttl_0.26.0_linux_arm64](https://github.com/kudobuilder/kuttl/releases/download/v0.26.0/kubectl-kuttl_0.26.0_linux_arm64) | 42.8 MiB | `native/linux/arm64` |
+| [kubectl-kuttl_0.26.0_linux_armv6](https://github.com/kudobuilder/kuttl/releases/download/v0.26.0/kubectl-kuttl_0.26.0_linux_armv6) | 44.2 MiB | `native/linux/arm` |
+| [kubectl-kuttl_0.26.0_linux_i386](https://github.com/kudobuilder/kuttl/releases/download/v0.26.0/kubectl-kuttl_0.26.0_linux_i386) | 44.5 MiB | `native/linux/x86` |
+| [kubectl-kuttl_0.26.0_linux_ppc64le](https://github.com/kudobuilder/kuttl/releases/download/v0.26.0/kubectl-kuttl_0.26.0_linux_ppc64le) | 45.4 MiB | `other` |
+| [kubectl-kuttl_0.26.0_linux_s390x](https://github.com/kudobuilder/kuttl/releases/download/v0.26.0/kubectl-kuttl_0.26.0_linux_s390x) | 47.7 MiB | `other` |
+| [kubectl-kuttl_0.26.0_linux_x86_64](https://github.com/kudobuilder/kuttl/releases/download/v0.26.0/kubectl-kuttl_0.26.0_linux_x86_64) | 45.6 MiB | `native/linux/x64` |
+| [kuttl_0.26.0_darwin_arm64.tar.gz](https://github.com/kudobuilder/kuttl/releases/download/v0.26.0/kuttl_0.26.0_darwin_arm64.tar.gz) | 13.8 MiB | `native/darwin/arm64` |
+| [kuttl_0.26.0_darwin_x86_64.tar.gz](https://github.com/kudobuilder/kuttl/releases/download/v0.26.0/kuttl_0.26.0_darwin_x86_64.tar.gz) | 15.2 MiB | `native/darwin/x64` |
+| [kuttl_0.26.0_linux_arm64.tar.gz](https://github.com/kudobuilder/kuttl/releases/download/v0.26.0/kuttl_0.26.0_linux_arm64.tar.gz) | 13.2 MiB | `native/linux/arm64` |
+| [kuttl_0.26.0_linux_armv6.tar.gz](https://github.com/kudobuilder/kuttl/releases/download/v0.26.0/kuttl_0.26.0_linux_armv6.tar.gz) | 14.1 MiB | `native/linux/arm` |
+| [kuttl_0.26.0_linux_i386.tar.gz](https://github.com/kudobuilder/kuttl/releases/download/v0.26.0/kuttl_0.26.0_linux_i386.tar.gz) | 13.9 MiB | `native/linux/x86` |
+| [kuttl_0.26.0_linux_ppc64le.tar.gz](https://github.com/kudobuilder/kuttl/releases/download/v0.26.0/kuttl_0.26.0_linux_ppc64le.tar.gz) | 13.2 MiB | `native/unknown` |
+| [kuttl_0.26.0_linux_s390x.tar.gz](https://github.com/kudobuilder/kuttl/releases/download/v0.26.0/kuttl_0.26.0_linux_s390x.tar.gz) | 14.3 MiB | `native/unknown` |
+| [kuttl_0.26.0_linux_x86_64.tar.gz](https://github.com/kudobuilder/kuttl/releases/download/v0.26.0/kuttl_0.26.0_linux_x86_64.tar.gz) | 14.9 MiB | `native/linux/x64` |
 
 ## Popularity
 
@@ -67,8 +88,8 @@ Lowest-scoring checks:
 Install metadata for kuttl lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `kuttl` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/kuttl.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/kuttl.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T04:29:32Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T15:57:59Z._

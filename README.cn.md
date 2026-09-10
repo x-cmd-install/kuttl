@@ -4,7 +4,7 @@
 
 KUbernetes Test TooL (kuttl)
 
-![kuttl](https://repo.x-cmd.io/kuttl.svg)
+![kuttl](https://repo.x-cmd.io/kuttl.svg?lang=zh)
 
 ## 安装
 
@@ -22,7 +22,28 @@ x install kuttl
 - **最新版本**: `v0.26.0` (2026-05-11)
 - **最近提交**: 2026-09-07
 - **Release 含资产**: 17 个
-- **发布时间**: 2026-05-11T06:01:12Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [checksums.txt](https://github.com/kudobuilder/kuttl/releases/download/v0.26.0/checksums.txt) | 1.5 KiB | `other` |
+| [kubectl-kuttl_0.26.0_darwin_arm64](https://github.com/kudobuilder/kuttl/releases/download/v0.26.0/kubectl-kuttl_0.26.0_darwin_arm64) | 43.9 MiB | `native/darwin/arm64` |
+| [kubectl-kuttl_0.26.0_darwin_x86_64](https://github.com/kudobuilder/kuttl/releases/download/v0.26.0/kubectl-kuttl_0.26.0_darwin_x86_64) | 46.5 MiB | `native/darwin/x64` |
+| [kubectl-kuttl_0.26.0_linux_arm64](https://github.com/kudobuilder/kuttl/releases/download/v0.26.0/kubectl-kuttl_0.26.0_linux_arm64) | 42.8 MiB | `native/linux/arm64` |
+| [kubectl-kuttl_0.26.0_linux_armv6](https://github.com/kudobuilder/kuttl/releases/download/v0.26.0/kubectl-kuttl_0.26.0_linux_armv6) | 44.2 MiB | `native/linux/arm` |
+| [kubectl-kuttl_0.26.0_linux_i386](https://github.com/kudobuilder/kuttl/releases/download/v0.26.0/kubectl-kuttl_0.26.0_linux_i386) | 44.5 MiB | `native/linux/x86` |
+| [kubectl-kuttl_0.26.0_linux_ppc64le](https://github.com/kudobuilder/kuttl/releases/download/v0.26.0/kubectl-kuttl_0.26.0_linux_ppc64le) | 45.4 MiB | `other` |
+| [kubectl-kuttl_0.26.0_linux_s390x](https://github.com/kudobuilder/kuttl/releases/download/v0.26.0/kubectl-kuttl_0.26.0_linux_s390x) | 47.7 MiB | `other` |
+| [kubectl-kuttl_0.26.0_linux_x86_64](https://github.com/kudobuilder/kuttl/releases/download/v0.26.0/kubectl-kuttl_0.26.0_linux_x86_64) | 45.6 MiB | `native/linux/x64` |
+| [kuttl_0.26.0_darwin_arm64.tar.gz](https://github.com/kudobuilder/kuttl/releases/download/v0.26.0/kuttl_0.26.0_darwin_arm64.tar.gz) | 13.8 MiB | `native/darwin/arm64` |
+| [kuttl_0.26.0_darwin_x86_64.tar.gz](https://github.com/kudobuilder/kuttl/releases/download/v0.26.0/kuttl_0.26.0_darwin_x86_64.tar.gz) | 15.2 MiB | `native/darwin/x64` |
+| [kuttl_0.26.0_linux_arm64.tar.gz](https://github.com/kudobuilder/kuttl/releases/download/v0.26.0/kuttl_0.26.0_linux_arm64.tar.gz) | 13.2 MiB | `native/linux/arm64` |
+| [kuttl_0.26.0_linux_armv6.tar.gz](https://github.com/kudobuilder/kuttl/releases/download/v0.26.0/kuttl_0.26.0_linux_armv6.tar.gz) | 14.1 MiB | `native/linux/arm` |
+| [kuttl_0.26.0_linux_i386.tar.gz](https://github.com/kudobuilder/kuttl/releases/download/v0.26.0/kuttl_0.26.0_linux_i386.tar.gz) | 13.9 MiB | `native/linux/x86` |
+| [kuttl_0.26.0_linux_ppc64le.tar.gz](https://github.com/kudobuilder/kuttl/releases/download/v0.26.0/kuttl_0.26.0_linux_ppc64le.tar.gz) | 13.2 MiB | `native/unknown` |
+| [kuttl_0.26.0_linux_s390x.tar.gz](https://github.com/kudobuilder/kuttl/releases/download/v0.26.0/kuttl_0.26.0_linux_s390x.tar.gz) | 14.3 MiB | `native/unknown` |
+| [kuttl_0.26.0_linux_x86_64.tar.gz](https://github.com/kudobuilder/kuttl/releases/download/v0.26.0/kuttl_0.26.0_linux_x86_64.tar.gz) | 14.9 MiB | `native/linux/x64` |
 
 ## 流行度
 
@@ -71,4 +92,4 @@ kuttl 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:29:32Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T15:57:59Z._
