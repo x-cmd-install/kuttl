@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 1586,
       "digest": "sha256:ddad54875c68082f79788b143f3f1f95427aa740e2cea6c7480c3e69a467e8d1",
-      "download_count": 309,
+      "download_count": 310,
       "created_at": "2026-05-11T05:59:52Z",
       "updated_at": "2026-05-11T05:59:52Z",
       "browser_download_url": "https://github.com/kudobuilder/kuttl/releases/download/v0.26.0/checksums.txt"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 47853730,
       "digest": "sha256:f5ff7dad9d85c9db91e309ea05ff730bf6732c9a10d5212790faf95bf6e5db3f",
-      "download_count": 20451,
+      "download_count": 20486,
       "created_at": "2026-05-11T05:59:52Z",
       "updated_at": "2026-05-11T06:01:10Z",
       "browser_download_url": "https://github.com/kudobuilder/kuttl/releases/download/v0.26.0/kubectl-kuttl_0.26.0_linux_x86_64"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 13872209,
       "digest": "sha256:f7fe82b0dd18d26a146b7a9158adb927f631be1bf6e387e461277ad41a23220d",
-      "download_count": 22823,
+      "download_count": 22859,
       "created_at": "2026-05-11T05:59:52Z",
       "updated_at": "2026-05-11T06:00:07Z",
       "browser_download_url": "https://github.com/kudobuilder/kuttl/releases/download/v0.26.0/kuttl_0.26.0_linux_arm64.tar.gz"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 15674193,
       "digest": "sha256:a1e85cf519f19260b16f8c2c77b475c6b43c10313aee1ad02469f37da08dbe86",
-      "download_count": 70435,
+      "download_count": 70732,
       "created_at": "2026-05-11T05:59:52Z",
       "updated_at": "2026-05-11T06:00:33Z",
       "browser_download_url": "https://github.com/kudobuilder/kuttl/releases/download/v0.26.0/kuttl_0.26.0_linux_x86_64.tar.gz"
