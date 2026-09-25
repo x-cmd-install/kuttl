@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 1586,
       "digest": "sha256:66a3a7ea4672b5bc89cf170d03c3be3b24131801d6b46539c4ce21f4a16f7656",
-      "download_count": 8,
+      "download_count": 10,
       "created_at": "2026-09-23T12:01:09Z",
       "updated_at": "2026-09-23T12:01:09Z",
       "browser_download_url": "https://github.com/kudobuilder/kuttl/releases/download/v0.27.0/checksums.txt"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 47745938,
       "digest": "sha256:082e6067662d2e276e32074c9bc68adae92cfef1427e8814a196e6ffa024f9f9",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-09-23T12:01:09Z",
       "updated_at": "2026-09-23T12:03:14Z",
       "browser_download_url": "https://github.com/kudobuilder/kuttl/releases/download/v0.27.0/kubectl-kuttl_0.27.0_darwin_arm64"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 50517920,
       "digest": "sha256:6b48e0abf664428fffa4d78d4a98e4e550a48d5528256b5fe1ad91d4d8e70da5",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-09-23T12:01:09Z",
       "updated_at": "2026-09-23T12:03:30Z",
       "browser_download_url": "https://github.com/kudobuilder/kuttl/releases/download/v0.27.0/kubectl-kuttl_0.27.0_darwin_x86_64"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 46465186,
       "digest": "sha256:5077a928ade6a4b8322efc79d7a9598494e87e2909a0e8e9a2e5106654e7aa0c",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-09-23T12:01:09Z",
       "updated_at": "2026-09-23T12:03:29Z",
       "browser_download_url": "https://github.com/kudobuilder/kuttl/releases/download/v0.27.0/kubectl-kuttl_0.27.0_linux_arm64"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 48382114,
       "digest": "sha256:bdb06376e93f3e679048a86d04c664751b5cf0abd0ef57454ea1a3098d56849e",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-09-23T12:01:09Z",
       "updated_at": "2026-09-23T12:03:23Z",
       "browser_download_url": "https://github.com/kudobuilder/kuttl/releases/download/v0.27.0/kubectl-kuttl_0.27.0_linux_i386"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 49553570,
       "digest": "sha256:ead175622128c043cd5f90fc7f9ed07602d064e02a8bec89632be801f83c6490",
-      "download_count": 9,
+      "download_count": 16,
       "created_at": "2026-09-23T12:01:09Z",
       "updated_at": "2026-09-23T12:03:17Z",
       "browser_download_url": "https://github.com/kudobuilder/kuttl/releases/download/v0.27.0/kubectl-kuttl_0.27.0_linux_x86_64"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 14903524,
       "digest": "sha256:a9b9c09e89f6ecf128a79350b111bea39df84d628e89afc9add5d593137864df",
-      "download_count": 27,
+      "download_count": 44,
       "created_at": "2026-09-23T12:01:09Z",
       "updated_at": "2026-09-23T12:02:12Z",
       "browser_download_url": "https://github.com/kudobuilder/kuttl/releases/download/v0.27.0/kuttl_0.27.0_darwin_arm64.tar.gz"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 14274953,
       "digest": "sha256:6737b87c7d10bbe60a21347a7ba9a983ad4ba455a8d8990cc9bf749b7f0c8299",
-      "download_count": 5,
+      "download_count": 6,
       "created_at": "2026-09-23T12:01:09Z",
       "updated_at": "2026-09-23T12:02:05Z",
       "browser_download_url": "https://github.com/kudobuilder/kuttl/releases/download/v0.27.0/kuttl_0.27.0_linux_arm64.tar.gz"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 16125623,
       "digest": "sha256:5a51888ff8a162b4ffe2f32564b8c62d5c0319569ccf6805851554fa1a8ded8b",
-      "download_count": 312,
+      "download_count": 546,
       "created_at": "2026-09-23T12:01:10Z",
       "updated_at": "2026-09-23T12:01:58Z",
       "browser_download_url": "https://github.com/kudobuilder/kuttl/releases/download/v0.27.0/kuttl_0.27.0_linux_x86_64.tar.gz"
@@ -652,5 +652,17 @@
   "tarball_url": "https://api.github.com/repos/kudobuilder/kuttl/tarball/v0.27.0",
   "zipball_url": "https://api.github.com/repos/kudobuilder/kuttl/zipball/v0.27.0",
   "body": "This release has seen the most contributions since I remember! 🥳 Thanks everyone!\r\n\r\n## 🚀 Highlights\r\n\r\n- lint: enable thelper linter (#723) - the visible effect is that the prefix in `kuttl` output (which used to be a useless `logger.go:42` on all lines) now usually reflects the relevant place in the code\r\n- add: new `--delete` flag (#715) - it is now possible to skip deletion of namespaces of only failing cases; it also now correctly skips cluster deletion\r\n\r\n## ⚠️ Breaking Changes\r\n\r\n- fix: respect case-insensitive `reportFormat` in TestSuite config (#721) - the Go type changed for the field, the underlying base type is still `string` and the allowed values did not change (modulo whitespace trimming) so hopefully it's unlikely to cause any pain in real life\r\n\r\n## 🐛 Bug Fixes\r\n\r\n- fix: respect case-insensitive reportFormat in TestSuite config (#721)\r\n- add: new `--delete` flag (#715)\r\n- docs: fix typos in KEPs (#713)\r\n- fix(test): use require.NoError for envtest startup in TestAssertExpressions (#706)\r\n- fix: randomize namespace in TestStepDeleteExistingLabelMatch to prevent -count flake (#694)\r\n\r\n## 🌱 Dependency bumps\r\n\r\n- ci: derive Go version from go.mod in test workflows (#722)\r\n- chore(tests): tell setup-envtest to use any k8s patch version (#697)\r\n- chore(deps): bump github.com/dustin/go-humanize from 1.0.1 to 1.1.0 (#720)\r\n- chore(deps): bump github.com/go-logr/logr from 1.4.3 to 1.4.4 (#705)\r\n- chore(deps): bump github.com/google/cel-go from 0.28.0 to 0.31.0 (#692, #699, #701, #704, #710)\r\n- chore(deps): bump github.com/moby/moby/api from 1.54.2 to 1.55.0 (#695)\r\n- chore(deps): bump github.com/moby/moby/client from 0.4.1 to 0.6.0 (#696, #707, #717)\r\n- chore(deps): bump github.com/stretchr/testify from 1.11.1 to 1.12.1 (#712)\r\n- chore(deps): bump golang.org/x/crypto from 0.51.0 to 0.52.0 (#700)\r\n- chore(deps): bump golang.org/x/net from 0.53.0 to 0.55.0 (#698)\r\n- chore(deps): bump google.golang.org/grpc from 1.80.0 to 1.82.1 (#702)\r\n- chore(deps): bump sigs.k8s.io/controller-runtime from 0.25.0 to 0.25.1 in the kubernetes group across 1 directory (#719)\r\n- chore(deps): bump the actions group with 3 updates (#724) \r\n- chore(deps): bump the kubernetes group (#703, #693, #716, #711, #714)\r\n\r\n## Contributors\r\n\r\n@porridge, @pujitha24, @somaz94, @vaibhav8a, @winiciusallan and [@dependabot[bot]](https://github.com/apps/dependabot) \r\nThanks to @vladbologa and @mclasmeier for reviews!",
+  "reactions": {
+    "url": "https://api.github.com/repos/kudobuilder/kuttl/releases/394615303/reactions",
+    "total_count": 1,
+    "+1": 0,
+    "-1": 0,
+    "laugh": 0,
+    "hooray": 1,
+    "confused": 0,
+    "heart": 0,
+    "rocket": 0,
+    "eyes": 0
+  },
   "mentions_count": 7
 }
