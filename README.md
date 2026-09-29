@@ -42,7 +42,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.27.0` (2026-09-23)
-- **Last commit**: 2026-09-23
+- **Last commit**: 2026-09-28
 - **Assets in release**: 17
 
 ## Popularity
@@ -51,18 +51,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 37 · **Merged PRs**: 384 · **Open PRs**: 11 · **Closed issues**: 135 · **Open issues**: 133 · **Commits**: 415
+- **Releases**: 37 · **Merged PRs**: 386 · **Open PRs**: 10 · **Closed issues**: 135 · **Open issues**: 133 · **Commits**: 417
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-29 | 1 | 11 | 2 | 1 | 1 | 10 |
-| last60d | 2026-07-30 | 1 | 17 | 3 | 2 | 1 | 15 |
-| 90d | 2026-06-30 | 1 | 25 | 3 | 2 | 1 | 25 |
-| last180d | 2026-04-01 | 2 | 41 | 3 | 2 | 1 | 41 |
-| 360d | 2025-10-03 | 5 | 79 | 3 | 7 | 2 | 95 |
-| last720d | 2024-10-08 | 8 | 117 | 4 | 12 | 5 | 136 |
+| 30d | 2026-08-30 | 1 | 13 | 1 | 1 | 1 | 12 |
+| last60d | 2026-07-31 | 1 | 19 | 2 | 2 | 1 | 17 |
+| 90d | 2026-07-01 | 1 | 27 | 2 | 2 | 1 | 27 |
+| last180d | 2026-04-02 | 2 | 43 | 2 | 2 | 1 | 43 |
+| 360d | 2025-10-04 | 5 | 81 | 2 | 7 | 2 | 97 |
+| last720d | 2024-10-09 | 8 | 119 | 3 | 12 | 5 | 138 |
 
 ## Release assets
 
@@ -95,4 +95,4 @@ Install metadata for kuttl lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260928.yml` · 2026-09-28T05:14:13Z._
+_Snapshot: `data/card/260929.yml` · 2026-09-29T05:36:44Z._
