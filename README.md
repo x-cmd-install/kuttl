@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-07 | 1 | 12 | 1 | 1 | 1 | 13 |
-| last60d | 2026-08-08 | 1 | 20 | 2 | 2 | 1 | 20 |
-| 90d | 2026-07-09 | 1 | 28 | 2 | 2 | 1 | 28 |
-| last180d | 2026-04-10 | 2 | 45 | 2 | 2 | 1 | 44 |
-| 360d | 2025-10-12 | 5 | 83 | 2 | 7 | 2 | 88 |
-| last720d | 2024-10-17 | 8 | 121 | 3 | 12 | 5 | 139 |
+| 30d | 2026-09-08 | 1 | 12 | 1 | 1 | 1 | 13 |
+| last60d | 2026-08-09 | 1 | 20 | 2 | 2 | 1 | 20 |
+| 90d | 2026-07-10 | 1 | 27 | 2 | 2 | 1 | 28 |
+| last180d | 2026-04-11 | 2 | 45 | 2 | 2 | 1 | 44 |
+| 360d | 2025-10-13 | 5 | 83 | 2 | 7 | 2 | 88 |
+| last720d | 2024-10-18 | 8 | 121 | 3 | 12 | 5 | 139 |
 
 ## Release assets
 
@@ -95,4 +95,4 @@ Install metadata for kuttl lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261007.yml` · 2026-10-07T05:45:22Z._
+_Snapshot: `data/card/261008.yml` · 2026-10-08T05:53:56Z._
