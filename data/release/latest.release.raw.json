@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 1586,
       "digest": "sha256:66a3a7ea4672b5bc89cf170d03c3be3b24131801d6b46539c4ce21f4a16f7656",
-      "download_count": 60,
+      "download_count": 61,
       "created_at": "2026-09-23T12:01:09Z",
       "updated_at": "2026-09-23T12:01:09Z",
       "browser_download_url": "https://github.com/kudobuilder/kuttl/releases/download/v0.27.0/checksums.txt"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 49553570,
       "digest": "sha256:ead175622128c043cd5f90fc7f9ed07602d064e02a8bec89632be801f83c6490",
-      "download_count": 3149,
+      "download_count": 3355,
       "created_at": "2026-09-23T12:01:09Z",
       "updated_at": "2026-09-23T12:03:17Z",
       "browser_download_url": "https://github.com/kudobuilder/kuttl/releases/download/v0.27.0/kubectl-kuttl_0.27.0_linux_x86_64"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 14903524,
       "digest": "sha256:a9b9c09e89f6ecf128a79350b111bea39df84d628e89afc9add5d593137864df",
-      "download_count": 276,
+      "download_count": 278,
       "created_at": "2026-09-23T12:01:09Z",
       "updated_at": "2026-09-23T12:02:12Z",
       "browser_download_url": "https://github.com/kudobuilder/kuttl/releases/download/v0.27.0/kuttl_0.27.0_darwin_arm64.tar.gz"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 14241500,
       "digest": "sha256:4a2b65775923e96d107525e0bd58ea9726d83f0ac196abee2365981d44e948f8",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-09-23T12:01:09Z",
       "updated_at": "2026-09-23T12:02:16Z",
       "browser_download_url": "https://github.com/kudobuilder/kuttl/releases/download/v0.27.0/kuttl_0.27.0_linux_ppc64le.tar.gz"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 16125623,
       "digest": "sha256:5a51888ff8a162b4ffe2f32564b8c62d5c0319569ccf6805851554fa1a8ded8b",
-      "download_count": 5153,
+      "download_count": 5255,
       "created_at": "2026-09-23T12:01:10Z",
       "updated_at": "2026-09-23T12:01:58Z",
       "browser_download_url": "https://github.com/kudobuilder/kuttl/releases/download/v0.27.0/kuttl_0.27.0_linux_x86_64.tar.gz"
