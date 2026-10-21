@@ -14,14 +14,14 @@ x install kuttl
 
 ## Code insight
 
-Total: **12,606** lines of code across **243** files in the top 5 languages.
+Total: **13,768** lines of code across **271** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 9,625 | 980 | 1,494 | 91 |
-| Yaml | 2,622 | 17 | 4 | 139 |
+| Go | 10,546 | 1,008 | 1,568 | 94 |
+| Yaml | 2,854 | 17 | 4 | 163 |
 | Sh | 201 | 46 | 54 | 8 |
-| Makefile | 125 | 35 | 38 | 3 |
+| Makefile | 134 | 38 | 39 | 4 |
 | Dockerfile | 33 | 21 | 14 | 2 |
 
 ## OpenSSF Scorecard
@@ -42,27 +42,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.27.0` (2026-09-23)
-- **Last commit**: 2026-10-19
+- **Last commit**: 2026-10-20
 - **Assets in release**: 17
 
 ## Popularity
 
-- **Stars**: 828 · **Forks**: 105 · **Open issues**: 268 · **Contributors**: 61
+- **Stars**: 828 · **Forks**: 105 · **Open issues**: 268 · **Contributors**: 62
 
 ## Totals (cumulative)
 
-- **Releases**: 37 · **Merged PRs**: 392 · **Open PRs**: 12 · **Closed issues**: 135 · **Open issues**: 133 · **Commits**: 423
+- **Releases**: 37 · **Merged PRs**: 395 · **Open PRs**: 9 · **Closed issues**: 137 · **Open issues**: 131 · **Commits**: 426
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-20 | 1 | 15 | 3 | 1 | 1 | 8 |
-| last60d | 2026-08-21 | 1 | 22 | 3 | 1 | 1 | 20 |
-| 90d | 2026-07-22 | 1 | 29 | 4 | 2 | 1 | 29 |
-| last180d | 2026-04-23 | 2 | 43 | 4 | 2 | 1 | 45 |
-| 360d | 2025-10-25 | 5 | 81 | 4 | 7 | 2 | 86 |
-| last720d | 2024-10-30 | 8 | 123 | 5 | 12 | 5 | 141 |
+| 30d | 2026-09-21 | 1 | 13 | 0 | 2 | 0 | 11 |
+| last60d | 2026-08-22 | 1 | 25 | 0 | 2 | 0 | 23 |
+| 90d | 2026-07-23 | 1 | 32 | 1 | 3 | 0 | 32 |
+| last180d | 2026-04-24 | 2 | 46 | 1 | 3 | 0 | 48 |
+| 360d | 2025-10-26 | 5 | 84 | 1 | 8 | 1 | 89 |
+| last720d | 2024-10-31 | 8 | 126 | 2 | 13 | 4 | 144 |
 
 ## Release assets
 
@@ -95,4 +95,4 @@ Install metadata for kuttl lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261020.yml` · 2026-10-20T04:38:43Z._
+_Snapshot: `data/card/261021.yml` · 2026-10-21T04:34:08Z._
