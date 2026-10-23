@@ -41,7 +41,7 @@ x install kuttl
 
 ## 发布
 
-- **最新版本**: `v0.27.0` (2026-09-23)
+- **最新版本**: `v0.28.0` (2026-10-22)
 - **最近提交**: 2026-10-20
 - **Release 含资产**: 17 个
 
@@ -51,40 +51,50 @@ x install kuttl
 
 ## 累计统计
 
-- **发布数**: 37 · **已合并 PR**: 395 · **开放 PR**: 8 · **已关闭 issue**: 138 · **开放 issue**: 130 · **提交数**: 426
+- **发布数**: 38 · **已合并 PR**: 395 · **开放 PR**: 8 · **已关闭 issue**: 138 · **开放 issue**: 130 · **提交数**: 426
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 1 | 12 | 0 | 2 | 0 | 11 |
-| last60d | 2026-08-23 | 1 | 25 | 0 | 2 | 0 | 23 |
-| 90d | 2026-07-24 | 1 | 32 | 1 | 3 | 0 | 32 |
-| last180d | 2026-04-25 | 2 | 46 | 1 | 3 | 0 | 48 |
-| 360d | 2025-10-27 | 5 | 83 | 1 | 8 | 1 | 89 |
-| last720d | 2024-11-01 | 8 | 126 | 2 | 13 | 4 | 144 |
+| 30d | 2026-09-23 | 2 | 10 | 0 | 1 | 0 | 11 |
+| last60d | 2026-08-24 | 2 | 23 | 0 | 2 | 0 | 23 |
+| 90d | 2026-07-25 | 2 | 31 | 1 | 3 | 0 | 32 |
+| last180d | 2026-04-26 | 3 | 46 | 1 | 3 | 0 | 48 |
+| 360d | 2025-10-28 | 6 | 83 | 1 | 8 | 1 | 89 |
+| last720d | 2024-11-02 | 9 | 126 | 2 | 13 | 4 | 144 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [checksums.txt](https://github.com/kudobuilder/kuttl/releases/download/v0.27.0/checksums.txt) | 1.5 KiB | `other` |
-| [kubectl-kuttl_0.27.0_darwin_arm64](https://github.com/kudobuilder/kuttl/releases/download/v0.27.0/kubectl-kuttl_0.27.0_darwin_arm64) | 45.5 MiB | `native/darwin/arm64` |
-| [kubectl-kuttl_0.27.0_darwin_x86_64](https://github.com/kudobuilder/kuttl/releases/download/v0.27.0/kubectl-kuttl_0.27.0_darwin_x86_64) | 48.2 MiB | `native/darwin/x64` |
-| [kubectl-kuttl_0.27.0_linux_arm64](https://github.com/kudobuilder/kuttl/releases/download/v0.27.0/kubectl-kuttl_0.27.0_linux_arm64) | 44.3 MiB | `native/linux/arm64` |
-| [kubectl-kuttl_0.27.0_linux_armv6](https://github.com/kudobuilder/kuttl/releases/download/v0.27.0/kubectl-kuttl_0.27.0_linux_armv6) | 45.8 MiB | `native/linux/arm` |
-| [kubectl-kuttl_0.27.0_linux_i386](https://github.com/kudobuilder/kuttl/releases/download/v0.27.0/kubectl-kuttl_0.27.0_linux_i386) | 46.1 MiB | `native/linux/x86` |
-| [kubectl-kuttl_0.27.0_linux_ppc64le](https://github.com/kudobuilder/kuttl/releases/download/v0.27.0/kubectl-kuttl_0.27.0_linux_ppc64le) | 47.0 MiB | `other` |
-| [kubectl-kuttl_0.27.0_linux_s390x](https://github.com/kudobuilder/kuttl/releases/download/v0.27.0/kubectl-kuttl_0.27.0_linux_s390x) | 49.4 MiB | `other` |
-| [kubectl-kuttl_0.27.0_linux_x86_64](https://github.com/kudobuilder/kuttl/releases/download/v0.27.0/kubectl-kuttl_0.27.0_linux_x86_64) | 47.3 MiB | `native/linux/x64` |
-| [kuttl_0.27.0_darwin_arm64.tar.gz](https://github.com/kudobuilder/kuttl/releases/download/v0.27.0/kuttl_0.27.0_darwin_arm64.tar.gz) | 14.2 MiB | `native/darwin/arm64` |
-| [kuttl_0.27.0_darwin_x86_64.tar.gz](https://github.com/kudobuilder/kuttl/releases/download/v0.27.0/kuttl_0.27.0_darwin_x86_64.tar.gz) | 15.6 MiB | `native/darwin/x64` |
-| [kuttl_0.27.0_linux_arm64.tar.gz](https://github.com/kudobuilder/kuttl/releases/download/v0.27.0/kuttl_0.27.0_linux_arm64.tar.gz) | 13.6 MiB | `native/linux/arm64` |
-| [kuttl_0.27.0_linux_armv6.tar.gz](https://github.com/kudobuilder/kuttl/releases/download/v0.27.0/kuttl_0.27.0_linux_armv6.tar.gz) | 14.5 MiB | `native/linux/arm` |
-| [kuttl_0.27.0_linux_i386.tar.gz](https://github.com/kudobuilder/kuttl/releases/download/v0.27.0/kuttl_0.27.0_linux_i386.tar.gz) | 14.3 MiB | `native/linux/x86` |
-| [kuttl_0.27.0_linux_ppc64le.tar.gz](https://github.com/kudobuilder/kuttl/releases/download/v0.27.0/kuttl_0.27.0_linux_ppc64le.tar.gz) | 13.6 MiB | `native/unknown` |
-| [kuttl_0.27.0_linux_s390x.tar.gz](https://github.com/kudobuilder/kuttl/releases/download/v0.27.0/kuttl_0.27.0_linux_s390x.tar.gz) | 14.7 MiB | `native/unknown` |
-| [kuttl_0.27.0_linux_x86_64.tar.gz](https://github.com/kudobuilder/kuttl/releases/download/v0.27.0/kuttl_0.27.0_linux_x86_64.tar.gz) | 15.4 MiB | `native/linux/x64` |
+| [checksums.txt](https://github.com/kudobuilder/kuttl/releases/download/v0.28.0/checksums.txt) | 1.5 KiB | `other` |
+| [kubectl-kuttl_0.28.0_darwin_arm64](https://github.com/kudobuilder/kuttl/releases/download/v0.28.0/kubectl-kuttl_0.28.0_darwin_arm64) | 45.7 MiB | `native/darwin/arm64` |
+| [kubectl-kuttl_0.28.0_darwin_x86_64](https://github.com/kudobuilder/kuttl/releases/download/v0.28.0/kubectl-kuttl_0.28.0_darwin_x86_64) | 48.4 MiB | `native/darwin/x64` |
+| [kubectl-kuttl_0.28.0_linux_arm64](https://github.com/kudobuilder/kuttl/releases/download/v0.28.0/kubectl-kuttl_0.28.0_linux_arm64) | 44.4 MiB | `native/linux/arm64` |
+| [kubectl-kuttl_0.28.0_linux_armv6](https://github.com/kudobuilder/kuttl/releases/download/v0.28.0/kubectl-kuttl_0.28.0_linux_armv6) | 45.9 MiB | `native/linux/arm` |
+| [kubectl-kuttl_0.28.0_linux_i386](https://github.com/kudobuilder/kuttl/releases/download/v0.28.0/kubectl-kuttl_0.28.0_linux_i386) | 46.3 MiB | `native/linux/x86` |
+| [kubectl-kuttl_0.28.0_linux_ppc64le](https://github.com/kudobuilder/kuttl/releases/download/v0.28.0/kubectl-kuttl_0.28.0_linux_ppc64le) | 47.2 MiB | `other` |
+| [kubectl-kuttl_0.28.0_linux_s390x](https://github.com/kudobuilder/kuttl/releases/download/v0.28.0/kubectl-kuttl_0.28.0_linux_s390x) | 49.6 MiB | `other` |
+| [kubectl-kuttl_0.28.0_linux_x86_64](https://github.com/kudobuilder/kuttl/releases/download/v0.28.0/kubectl-kuttl_0.28.0_linux_x86_64) | 47.5 MiB | `native/linux/x64` |
+| [kuttl_0.28.0_darwin_arm64.tar.gz](https://github.com/kudobuilder/kuttl/releases/download/v0.28.0/kuttl_0.28.0_darwin_arm64.tar.gz) | 14.3 MiB | `native/darwin/arm64` |
+| [kuttl_0.28.0_darwin_x86_64.tar.gz](https://github.com/kudobuilder/kuttl/releases/download/v0.28.0/kuttl_0.28.0_darwin_x86_64.tar.gz) | 15.7 MiB | `native/darwin/x64` |
+| [kuttl_0.28.0_linux_arm64.tar.gz](https://github.com/kudobuilder/kuttl/releases/download/v0.28.0/kuttl_0.28.0_linux_arm64.tar.gz) | 13.7 MiB | `native/linux/arm64` |
+| [kuttl_0.28.0_linux_armv6.tar.gz](https://github.com/kudobuilder/kuttl/releases/download/v0.28.0/kuttl_0.28.0_linux_armv6.tar.gz) | 14.5 MiB | `native/linux/arm` |
+| [kuttl_0.28.0_linux_i386.tar.gz](https://github.com/kudobuilder/kuttl/releases/download/v0.28.0/kuttl_0.28.0_linux_i386.tar.gz) | 14.4 MiB | `native/linux/x86` |
+| [kuttl_0.28.0_linux_ppc64le.tar.gz](https://github.com/kudobuilder/kuttl/releases/download/v0.28.0/kuttl_0.28.0_linux_ppc64le.tar.gz) | 13.7 MiB | `native/unknown` |
+| [kuttl_0.28.0_linux_s390x.tar.gz](https://github.com/kudobuilder/kuttl/releases/download/v0.28.0/kuttl_0.28.0_linux_s390x.tar.gz) | 14.8 MiB | `native/unknown` |
+| [kuttl_0.28.0_linux_x86_64.tar.gz](https://github.com/kudobuilder/kuttl/releases/download/v0.28.0/kuttl_0.28.0_linux_x86_64.tar.gz) | 15.4 MiB | `native/linux/x64` |
+
+## 发行版状态
+
+在 [repology.org](https://repology.org/project/kuttl) 上共有 **9** 个发行版报告此项目。**1** 个 ✅ 已是最新上游版本，**7** 个 ⚠️ 使用旧版本。
+
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
+| Homebrew | `0.28.0` | ✅ latest |
+| Nix unstable | `0.27.0` | ⚠️ outdated |
+| openSUSE Tumbleweed | `0.27.0` | ⚠️ outdated |
 
 ## 改进这些数据
 
@@ -95,4 +105,4 @@ kuttl 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261022.yml` · 2026-10-22T04:30:08Z._
+_数据快照: `data/card/261023.yml` · 2026-10-23T04:36:19Z._
