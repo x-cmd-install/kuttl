@@ -70,9 +70,9 @@
 - repo: nix_unstable
   srcname: kuttl
   visiblename: kuttl
-  version: 0.27.0
+  version: 0.28.0
   origversion: null
-  status: outdated
+  status: newest
   summary: KUbernetes Test TooL (KUTTL) provides a declarative approach to testing production-grade Kubernetes operators
   maintainers:
     - fallback-mnt-nix@repology
