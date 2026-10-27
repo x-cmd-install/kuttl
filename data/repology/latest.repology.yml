@@ -89,9 +89,9 @@
     - kuttl-fish-completion
     - kuttl-zsh-completion
   visiblename: kuttl
-  version: 0.27.0
-  origversion: 0.27.0-1.1
-  status: outdated
+  version: 0.28.0
+  origversion: 0.28.0-1.1
+  status: newest
   summary: KUbernetes Test TooL
   licenses:
     - Apache-2.0
