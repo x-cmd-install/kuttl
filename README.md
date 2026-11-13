@@ -14,12 +14,12 @@ x install kuttl
 
 ## Code insight
 
-Total: **13,768** lines of code across **271** files in the top 5 languages.
+Total: **13,943** lines of code across **276** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 10,546 | 1,008 | 1,568 | 94 |
-| Yaml | 2,854 | 17 | 4 | 163 |
+| Go | 10,691 | 1,011 | 1,604 | 94 |
+| Yaml | 2,884 | 17 | 4 | 168 |
 | Sh | 201 | 46 | 54 | 8 |
 | Makefile | 134 | 38 | 39 | 4 |
 | Dockerfile | 33 | 21 | 14 | 2 |
@@ -42,7 +42,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.28.0` (2026-10-22)
-- **Last commit**: 2026-11-09
+- **Last commit**: 2026-11-12
 - **Assets in release**: 17
 
 ## Popularity
@@ -51,18 +51,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 38 · **Merged PRs**: 395 · **Open PRs**: 9 · **Closed issues**: 138 · **Open issues**: 130 · **Commits**: 428
+- **Releases**: 38 · **Merged PRs**: 396 · **Open PRs**: 8 · **Closed issues**: 139 · **Open issues**: 129 · **Commits**: 429
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-13 | 1 | 5 | 1 | 0 | 0 | 7 |
-| last60d | 2026-09-13 | 2 | 19 | 1 | 2 | 0 | 21 |
-| 90d | 2026-08-14 | 2 | 27 | 1 | 2 | 0 | 28 |
-| last180d | 2026-05-16 | 2 | 42 | 2 | 3 | 0 | 43 |
-| 360d | 2025-11-17 | 6 | 77 | 2 | 8 | 0 | 79 |
-| last720d | 2024-11-22 | 9 | 123 | 3 | 12 | 4 | 143 |
+| 30d | 2026-10-14 | 1 | 6 | 0 | 0 | 0 | 8 |
+| last60d | 2026-09-14 | 2 | 20 | 0 | 2 | 0 | 22 |
+| 90d | 2026-08-15 | 2 | 28 | 0 | 2 | 0 | 29 |
+| last180d | 2026-05-17 | 2 | 43 | 1 | 3 | 0 | 44 |
+| 360d | 2025-11-18 | 6 | 78 | 1 | 8 | 0 | 80 |
+| last720d | 2024-11-23 | 9 | 123 | 2 | 12 | 4 | 144 |
 
 ## Release assets
 
@@ -105,4 +105,4 @@ Install metadata for kuttl lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261112.yml` · 2026-11-12T07:06:32Z._
+_Snapshot: `data/card/261113.yml` · 2026-11-13T06:30:13Z._
