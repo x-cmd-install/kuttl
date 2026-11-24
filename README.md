@@ -42,27 +42,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.29.0` (2026-11-19)
-- **Last commit**: 2026-11-19
+- **Last commit**: 2026-11-23
 - **Assets in release**: 17
 
 ## Popularity
 
-- **Stars**: 828 · **Forks**: 104 · **Open issues**: 268 · **Contributors**: 61
+- **Stars**: 829 · **Forks**: 104 · **Open issues**: 268 · **Contributors**: 61
 
 ## Totals (cumulative)
 
-- **Releases**: 39 · **Merged PRs**: 398 · **Open PRs**: 11 · **Closed issues**: 140 · **Open issues**: 128 · **Commits**: 431
+- **Releases**: 39 · **Merged PRs**: 400 · **Open PRs**: 8 · **Closed issues**: 148 · **Open issues**: 120 · **Commits**: 433
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-24 | 1 | 5 | 3 | 0 | 0 | 5 |
-| last60d | 2026-09-24 | 2 | 15 | 3 | 1 | 0 | 14 |
-| 90d | 2026-08-25 | 3 | 26 | 3 | 2 | 0 | 28 |
-| last180d | 2026-05-27 | 3 | 44 | 4 | 3 | 0 | 46 |
-| 360d | 2025-11-28 | 6 | 72 | 4 | 4 | 0 | 75 |
-| last720d | 2024-12-03 | 10 | 116 | 5 | 10 | 4 | 140 |
+| 30d | 2026-10-25 | 1 | 7 | 0 | 0 | 0 | 7 |
+| last60d | 2026-09-25 | 2 | 17 | 0 | 0 | 0 | 16 |
+| 90d | 2026-08-26 | 3 | 28 | 0 | 2 | 0 | 30 |
+| last180d | 2026-05-28 | 3 | 46 | 1 | 3 | 0 | 48 |
+| 360d | 2025-11-29 | 6 | 74 | 1 | 4 | 0 | 77 |
+| last720d | 2024-12-04 | 10 | 116 | 2 | 9 | 4 | 140 |
 
 ## Release assets
 
@@ -88,13 +88,13 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **9** distros on [repology.org](https://repology.org/project/kuttl). **1** are ✅ on the latest upstream release, **7** are ⚠️ on an older version.
+Reported by **9** distros on [repology.org](https://repology.org/project/kuttl). **2** are ✅ on the latest upstream release, **6** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Homebrew | `HEAD` | 🔄 rolling |
+| Homebrew | `0.29.0` | ✅ latest |
 | Nix unstable | `0.28.0` | ⚠️ outdated |
-| openSUSE Tumbleweed | `0.28.0` | ⚠️ outdated |
+| openSUSE Tumbleweed | `0.29.0` | ✅ latest |
 
 ## Improve this data
 
@@ -105,4 +105,4 @@ Install metadata for kuttl lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261123.yml` · 2026-11-23T07:26:53Z._
+_Snapshot: `data/card/261124.yml` · 2026-11-24T09:45:59Z._
