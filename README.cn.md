@@ -47,22 +47,22 @@ x install kuttl
 
 ## 流行度
 
-- **Star**: 829 · **Fork**: 104 · **开放 issue**: 268 · **贡献者**: 61
+- **Star**: 829 · **Fork**: 104 · **开放 issue**: 270 · **贡献者**: 61
 
 ## 累计统计
 
-- **发布数**: 39 · **已合并 PR**: 400 · **开放 PR**: 8 · **已关闭 issue**: 148 · **开放 issue**: 120 · **提交数**: 433
+- **发布数**: 39 · **已合并 PR**: 400 · **开放 PR**: 9 · **已关闭 issue**: 151 · **开放 issue**: 119 · **提交数**: 433
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 1 | 7 | 0 | 0 | 0 | 7 |
-| last60d | 2026-09-25 | 2 | 17 | 0 | 0 | 0 | 16 |
-| 90d | 2026-08-26 | 3 | 28 | 0 | 2 | 0 | 30 |
-| last180d | 2026-05-28 | 3 | 46 | 1 | 3 | 0 | 48 |
-| 360d | 2025-11-29 | 6 | 74 | 1 | 4 | 0 | 77 |
-| last720d | 2024-12-04 | 10 | 116 | 2 | 9 | 4 | 140 |
+| 30d | 2026-10-26 | 1 | 7 | 1 | 0 | 2 | 7 |
+| last60d | 2026-09-26 | 2 | 17 | 1 | 0 | 2 | 16 |
+| 90d | 2026-08-27 | 3 | 28 | 1 | 2 | 2 | 30 |
+| last180d | 2026-05-29 | 3 | 46 | 2 | 3 | 2 | 48 |
+| 360d | 2025-11-30 | 6 | 74 | 2 | 4 | 2 | 77 |
+| last720d | 2024-12-05 | 9 | 116 | 3 | 9 | 5 | 138 |
 
 ## Release 资产
 
@@ -86,16 +86,6 @@ x install kuttl
 | [kuttl_0.29.0_linux_s390x.tar.gz](https://github.com/kudobuilder/kuttl/releases/download/v0.29.0/kuttl_0.29.0_linux_s390x.tar.gz) | 14.8 MiB | `native/unknown` |
 | [kuttl_0.29.0_linux_x86_64.tar.gz](https://github.com/kudobuilder/kuttl/releases/download/v0.29.0/kuttl_0.29.0_linux_x86_64.tar.gz) | 15.5 MiB | `native/linux/x64` |
 
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/kuttl) 上共有 **9** 个发行版报告此项目。**2** 个 ✅ 已是最新上游版本，**6** 个 ⚠️ 使用旧版本。
-
-| 发行版 | 版本 | 状态 |
-|--------|------|------|
-| Homebrew | `0.29.0` | ✅ latest |
-| Nix unstable | `0.28.0` | ⚠️ outdated |
-| openSUSE Tumbleweed | `0.29.0` | ✅ latest |
-
 ## 改进这些数据
 
 kuttl 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `kuttl` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -105,4 +95,4 @@ kuttl 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261124.yml` · 2026-11-24T09:46:00Z._
+_数据快照: `data/card/261125.yml` · 2026-11-25T08:18:08Z._

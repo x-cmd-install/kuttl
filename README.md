@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 829 · **Forks**: 104 · **Open issues**: 268 · **Contributors**: 61
+- **Stars**: 829 · **Forks**: 104 · **Open issues**: 270 · **Contributors**: 61
 
 ## Totals (cumulative)
 
-- **Releases**: 39 · **Merged PRs**: 400 · **Open PRs**: 8 · **Closed issues**: 148 · **Open issues**: 120 · **Commits**: 433
+- **Releases**: 39 · **Merged PRs**: 400 · **Open PRs**: 9 · **Closed issues**: 151 · **Open issues**: 119 · **Commits**: 433
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 1 | 7 | 0 | 0 | 0 | 7 |
-| last60d | 2026-09-25 | 2 | 17 | 0 | 0 | 0 | 16 |
-| 90d | 2026-08-26 | 3 | 28 | 0 | 2 | 0 | 30 |
-| last180d | 2026-05-28 | 3 | 46 | 1 | 3 | 0 | 48 |
-| 360d | 2025-11-29 | 6 | 74 | 1 | 4 | 0 | 77 |
-| last720d | 2024-12-04 | 10 | 116 | 2 | 9 | 4 | 140 |
+| 30d | 2026-10-26 | 1 | 7 | 1 | 0 | 2 | 7 |
+| last60d | 2026-09-26 | 2 | 17 | 1 | 0 | 2 | 16 |
+| 90d | 2026-08-27 | 3 | 28 | 1 | 2 | 2 | 30 |
+| last180d | 2026-05-29 | 3 | 46 | 2 | 3 | 2 | 48 |
+| 360d | 2025-11-30 | 6 | 74 | 2 | 4 | 2 | 77 |
+| last720d | 2024-12-05 | 9 | 116 | 3 | 9 | 5 | 138 |
 
 ## Release assets
 
@@ -86,16 +86,6 @@ Lowest-scoring checks:
 | [kuttl_0.29.0_linux_s390x.tar.gz](https://github.com/kudobuilder/kuttl/releases/download/v0.29.0/kuttl_0.29.0_linux_s390x.tar.gz) | 14.8 MiB | `native/unknown` |
 | [kuttl_0.29.0_linux_x86_64.tar.gz](https://github.com/kudobuilder/kuttl/releases/download/v0.29.0/kuttl_0.29.0_linux_x86_64.tar.gz) | 15.5 MiB | `native/linux/x64` |
 
-## Distribution status
-
-Reported by **9** distros on [repology.org](https://repology.org/project/kuttl). **2** are ✅ on the latest upstream release, **6** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Homebrew | `0.29.0` | ✅ latest |
-| Nix unstable | `0.28.0` | ⚠️ outdated |
-| openSUSE Tumbleweed | `0.29.0` | ✅ latest |
-
 ## Improve this data
 
 Install metadata for kuttl lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `kuttl` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -105,4 +95,4 @@ Install metadata for kuttl lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T09:45:59Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T08:18:08Z._
