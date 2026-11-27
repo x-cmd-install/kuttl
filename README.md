@@ -14,11 +14,11 @@ x install kuttl
 
 ## Code insight
 
-Total: **13,932** lines of code across **276** files in the top 5 languages.
+Total: **13,938** lines of code across **276** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 10,680 | 1,005 | 1,604 | 94 |
+| Go | 10,686 | 1,006 | 1,605 | 94 |
 | Yaml | 2,884 | 17 | 4 | 168 |
 | Sh | 201 | 46 | 54 | 8 |
 | Makefile | 134 | 38 | 39 | 4 |
@@ -42,7 +42,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.29.0` (2026-11-19)
-- **Last commit**: 2026-11-23
+- **Last commit**: 2026-11-26
 - **Assets in release**: 17
 
 ## Popularity
@@ -51,18 +51,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 39 · **Merged PRs**: 400 · **Open PRs**: 11 · **Closed issues**: 153 · **Open issues**: 117 · **Commits**: 433
+- **Releases**: 39 · **Merged PRs**: 401 · **Open PRs**: 10 · **Closed issues**: 154 · **Open issues**: 116 · **Commits**: 434
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-27 | 1 | 7 | 3 | 0 | 2 | 7 |
-| last60d | 2026-09-27 | 2 | 17 | 3 | 0 | 2 | 16 |
-| 90d | 2026-08-28 | 3 | 28 | 3 | 2 | 2 | 30 |
-| last180d | 2026-05-30 | 3 | 46 | 4 | 3 | 2 | 48 |
-| 360d | 2025-12-01 | 6 | 74 | 4 | 4 | 2 | 77 |
-| last720d | 2024-12-06 | 9 | 116 | 5 | 9 | 5 | 138 |
+| 30d | 2026-10-28 | 1 | 8 | 2 | 0 | 2 | 0 |
+| last60d | 2026-09-28 | 2 | 16 | 2 | 0 | 2 | 0 |
+| 90d | 2026-08-29 | 3 | 29 | 2 | 2 | 2 | 0 |
+| last180d | 2026-05-31 | 3 | 47 | 3 | 3 | 2 | 0 |
+| 360d | 2025-12-02 | 6 | 75 | 3 | 4 | 2 | 0 |
+| last720d | 2024-12-07 | 9 | 117 | 4 | 9 | 5 | 139 |
 
 ## Release assets
 
@@ -95,4 +95,4 @@ Install metadata for kuttl lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261126.yml` · 2026-11-26T08:04:09Z._
+_Snapshot: `data/card/261127.yml` · 2026-11-27T08:09:30Z._
